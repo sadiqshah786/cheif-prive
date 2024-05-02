@@ -38,7 +38,14 @@ a:hover{
   transition: .2s ease-in-out;
   color: #FF9E2C;
 }
-
+.slick-prev:before, .slick-next:before {
+    background: #FFF !important;
+    color: #FF9E2C !important;
+    font-size: 35px !important;
+}
+.slick-prev {
+    left: -47px !important;
+}
 @layer utilities {
   .text-balance {
     text-wrap: balance;

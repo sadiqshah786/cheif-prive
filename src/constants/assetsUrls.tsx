@@ -4,6 +4,8 @@ export const Images = {
   signUpIcon: "/imgs/signup.png",
   buttonIcon: "/imgs/email-icon.png",
   mobileIcon: "/imgs/hamburger.png",
+  dummyImg: "/imgs/placeholder.png",
+  star: "/imgs/Star.png",
 };
 
 export const footerAddressLink = [
@@ -59,5 +61,62 @@ export const socialLink = [
   {
     icon: "/imgs/instagram.png",
     link: "/",
+  },
+];
+
+export const testimonialsData = [
+  {
+    avatar: "/imgs/placeholder.png",
+    title: "William Smith",
+    designation: "Customer",
+    description: `أنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةخدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصة`,
+  },
+  {
+    avatar: "/imgs/placeholder.png",
+    title: "William Smith",
+    designation: "Customer",
+    description: `أنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةخدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصة`,
+  },
+  {
+    avatar: "/imgs/placeholder.png",
+    title: "William Smith",
+    designation: "Customer",
+    description: `أنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةخدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصة`,
+  },
+  {
+    avatar: "/imgs/placeholder.png",
+    title: "William Smith",
+    designation: "Customer",
+    description: `أنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةخدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصة`,
+  },
+  {
+    avatar: "/imgs/placeholder.png",
+    title: "William Smith",
+    designation: "Customer",
+    description: `أنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةخدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصة`,
+  },
+  {
+    avatar: "/imgs/placeholder.png",
+    title: "William Smith",
+    designation: "Customer",
+    description: `أنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةخدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصة`,
+  },
+  {
+    avatar: "/imgs/placeholder.png",
+    title: "William Smith",
+    designation: "Customer",
+    description: `أنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةخدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصة`,
+  },
+  {
+    avatar: "/imgs/placeholder.png",
+    title: "William Smith",
+    designation: "Customer",
+    description: `أنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةخدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصة`,
+  },
+  {
+    avatar: "/imgs/placeholder.png",
+    title: "William Smith",
+    designation: "Customer",
+    description: `أنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةخدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصةأنا أحب خدماتهم وأستمتع بها. هذه أفضل منصة`,
   },
 ];
