@@ -89,7 +89,7 @@ const Footer = () => {
                   isSubmitting,
                 }) => (
                   <Form onSubmit={handleSubmit}>
-                    <div className="relative flex items-center">
+                    <div className="relative flex gap-2 items-center">
                       <div>
                         <TextField
                           type="email"

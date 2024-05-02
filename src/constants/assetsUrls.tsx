@@ -6,6 +6,11 @@ export const Images = {
   mobileIcon: "/imgs/hamburger.png",
   dummyImg: "/imgs/placeholder.png",
   star: "/imgs/Star.png",
+  catMain: "/imgs/mainImg.png",
+  cat1: "/imgs/cat1.png",
+  cat2: "/imgs/cat2.png",
+  cat3: "/imgs/cat3.png",
+  cat4: "/imgs/cat4.png",
 };
 
 export const footerAddressLink = [

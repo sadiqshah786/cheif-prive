@@ -12,7 +12,7 @@ const Button: React.FC<ButtonProps> = ({ isType, icon, title }) => {
     <div>
       <button
         type={isType && "submit"}
-        className="bg-primary px-3 py-3 rounded-[10px]"
+        className="bg-primary px-3 py-2 rounded-[10px]"
       >
         {icon && (
           <span>
