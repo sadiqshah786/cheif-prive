@@ -1,5 +1,4 @@
 import React from "react";
-import TestimonialsCard from "@src/components/common/TestimonialsCard";
 import SimpleSlider from "./Slider";
 
 const Testimonials = () => {
