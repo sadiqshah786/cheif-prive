@@ -1,0 +1,29 @@
+.mobileNav{
+    display: none;
+}
+
+
+@media screen and (max-width:1024px){
+    .footer{
+        flex-wrap: wrap;
+        padding: 10px 20px;
+    }
+    .main_header{
+        padding: 10px;
+    }
+    .footer>img{
+        margin: 0px 40px 0px 0px;
+    }
+    .main_header img{
+        padding-left: 20px !important;
+    }
+}
+@media screen and (max-width:992px){
+   .mobileNav{
+    display: flex;
+    padding-right: 20px;
+   }
+   .desktopNav{
+    display: none;
+}
+}
