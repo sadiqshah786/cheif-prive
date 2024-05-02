@@ -19,7 +19,7 @@ const config: Config = {
         primary: '#FF9E2C',
         secondry: '#1F1F1F',
         lightWhite: "#00000059",
-        error:"#d63031"
+        error:"#e74c3c"
       },
       fontFamily: {
          gilroyBold: ['Gilroy-Bold'],
@@ -27,6 +27,9 @@ const config: Config = {
          gilroyMedium: ['Gilroy-Medium'],
          gilroyRegular: ['Gilroy-Regular'],
          gilroyLight: ['Gilroy-Light'],
+      },
+      boxShadow: {
+        box:"rgba(149, 157, 165, 0.2) 0px 8px 24px;"
       }
     },
   },
