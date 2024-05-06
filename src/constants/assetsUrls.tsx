@@ -11,6 +11,8 @@ export const Images = {
   cat2: "/imgs/cat2.png",
   cat3: "/imgs/cat3.png",
   cat4: "/imgs/cat4.png",
+  line: "/imgs/line.png",
+  hero: "/imgs/hero.png",
 };
 
 export const footerAddressLink = [

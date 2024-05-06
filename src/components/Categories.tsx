@@ -1,10 +1,23 @@
 import { Images } from "@src/constants/assetsUrls";
 import Image from "next/image";
 import React from "react";
+import styles from "./style.module.css";
 
 const Categories = () => {
   return (
     <div className="my-6 max-w-screen-2xl m-auto">
+      <div className="flex ">
+        <Image
+          className={styles.img}
+          src={Images.line}
+          alt=""
+          width={10}
+          height={10}
+        />
+        <h4 className={`${styles.line} px-4 my-4 text-3xl font-gilroyBold`}>
+          Browse by <span className="text-primary"> Categories</span>
+        </h4>
+      </div>
       <div className="flex">
         <div className="w-[50%]">
           <Image

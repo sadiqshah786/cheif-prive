@@ -1,7 +1,12 @@
 .mobileNav{
     display: none;
 }
-
+.img{
+   position: relative;
+    width: 42px;
+    height: 4px;
+    top: 30px;
+}
 
 @media screen and (max-width:1024px){
     .footer{

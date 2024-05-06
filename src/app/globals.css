@@ -46,8 +46,3 @@ a:hover{
 .slick-prev {
     left: -47px !important;
 }
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-}
