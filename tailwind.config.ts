@@ -9,10 +9,15 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
+        "gradient-conic":
+          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      },
       colors: {
         textColor: '#808080',
         primary: '#FF9E2C',
-        secondary: '#1F1F1F', // Corrected spelling of 'secondary'
+        secondry: '#1F1F1F',
         lightWhite: "#00000059",
         error:"#e74c3c"
       },
@@ -24,7 +29,7 @@ const config: Config = {
          gilroyLight: ['Gilroy-Light'],
       },
       boxShadow: {
-        box: "rgba(149, 157, 165, 0.2) 0px 8px 24px", // Removed the semicolon at the end
+        box:"rgba(149, 157, 165, 0.2) 0px 8px 24px",
       }
     },
   },
