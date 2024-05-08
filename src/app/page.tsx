@@ -9,11 +9,11 @@ import "slick-carousel/slick/slick-theme.css";
 const Home = () => {
   return (
     <>
-      {/* <Hero /> */}
+      <Hero />
       <AddBanner />
       <Dishes />
       <Categories />
-      {/* <Testimonials /> */}
+      <Testimonials />
     </>
   );
 };
